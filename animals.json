@@ -4,7 +4,7 @@
       "name": "Hedgehog",
       "status": "Declining in the UK",
       "summary": "Hedgehogs are nocturnal mammals that need safe gardens and connected habitats.",
-      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=1200&q=70",
+      "image": "https://raw.githubusercontent.com/Ehtishamhfd0/cmwa-app1-data/refs/heads/main/images/Hedgehog.jpg",
       "lat": 52.4862,
       "lng": -1.8904
     },
@@ -13,7 +13,7 @@
       "name": "Red Fox",
       "status": "Widespread",
       "summary": "Foxes are adaptable and can live in cities as well as countryside.",
-      "image": "https://images.unsplash.com/photo-1474511014310-2329f93fa247?auto=format&fit=crop&w=1200&q=70",
+      "image": "https://raw.githubusercontent.com/Ehtishamhfd0/cmwa-app1-data/refs/heads/main/images/Fox.jpg",
       "lat": 52.4800,
       "lng": -1.9000
     },
@@ -22,8 +22,9 @@
       "name": "Tawny Owl",
       "status": "Common resident",
       "summary": "A woodland owl known for its classic hooting call, active mostly at night.",
-      "image": "https://images.unsplash.com/photo-1501706362039-c6e13d5d07b8?auto=format&fit=crop&w=1200&q=70",
+      "image": "https://raw.githubusercontent.com/Ehtishamhfd0/cmwa-app1-data/refs/heads/main/images/Owl.jpg",
       "lat": 52.4900,
       "lng": -1.8700
     }
+
   ]  
